@@ -39,6 +39,8 @@ https://github.com/FunctionClub/SSR-Bash-Python
 
 
 ### 致谢列表
+https://flyzyblog.com/ssr-free-traffic/
+
 http://www.zhuzhirui.com/archives/20160817529.html
 
 http://www.renrensousuo.com/ssr-mianliu.htm
