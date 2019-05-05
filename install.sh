@@ -103,7 +103,7 @@ elif [ "${1}" == 'rmport' ];then
 else
 	while [ "$isInstall" != 'y' ] && [ "$isInstall" != 'n' ]
 	do
-		read -p "Do you really want to install ss-plugin to BT-Panel?(y/n): " isInstall;
+		read -p "是否确实要将SS插件安装到BT面板？（y/n）:" isInstall;
 	done
 	if [ "$isInstall" = 'y' ] || [ "$isInstall" = 'Y' ];then
 		Install_ss
