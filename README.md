@@ -39,6 +39,8 @@ https://github.com/FunctionClub/SSR-Bash-Python
 
 
 ### 致谢列表
+https://github.com/shadowsocksr-backup/shadowsocks-rss/blob/master/ssr.md
+
 https://flyzyblog.com/ssr-free-traffic/
 
 http://www.zhuzhirui.com/archives/20160817529.html
