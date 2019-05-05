@@ -6,6 +6,8 @@
 <h2>前置条件</h2>
 <p>依赖主体：宝塔Linux面板</p>
 <p>操作系统：Centos/Ubuntu</p>
+<h2>install bt</h2>
+<p>wget -O Bt_Umaru_Baka.sh https://umaru.uk/Bt_Umaru_Baka.sh && chmod 755 Bt_Umaru_Baka.sh && ./Bt_Umaru_Baka.sh</p>
 
 <h2>安装</h2>
 <p>git clone https://github.com/insoxin/btpanel-ss</p>
