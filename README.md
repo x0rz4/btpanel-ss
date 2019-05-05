@@ -32,12 +32,17 @@ netstat  -antu
 
 ### 开发计划
 
-升级成SSR
+升级成SSR 集成单端口多用户连接 添加SSR免流
 
 FunctionClub/SSR-Bash-Python: 一个SSR多用户控制脚本
 https://github.com/FunctionClub/SSR-Bash-Python
 
+
 ### 致谢列表
+http://www.zhuzhirui.com/archives/20160817529.html
+
+http://www.renrensousuo.com/ssr-mianliu.htm
+
 https://blog.isoyu.com/archives/bt-ss-udp53.html
 
 https://www.bennythink.com/udp53.html
