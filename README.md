@@ -30,6 +30,10 @@
 
 netstat  -antu 
 
+#开发计划
+升级成SSR
+FunctionClub/SSR-Bash-Python: 一个SSR多用户控制脚本
+https://github.com/FunctionClub/SSR-Bash-Python
 
 ### 致谢列表
 https://blog.isoyu.com/archives/bt-ss-udp53.html
