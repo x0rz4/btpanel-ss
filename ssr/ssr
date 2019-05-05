@@ -13,7 +13,7 @@ rm -f SSR
 clear
 echo -e "\033[34m================================================================\033[0m
 
-\033[31m                欢迎使用53打洞脚本                         \033[0m
+\033[31m                     欢迎使用53打洞脚本                         \033[0m
 
 \033[31m                本脚本搭建SSR来打洞过WEB验证             \033[0m
 
@@ -102,7 +102,7 @@ function pre_install(){
     while true
     do
     echo -e "请输入SSR连接端口,不设置将默认53端口:"
-    read -p "(默认自动设置SS免流端口为53):" shadowsocksport
+    read -p "(默认自动设置SSR端口为53):" shadowsocksport
     [ -z "$shadowsocksport" ] && shadowsocksport="53"
     expr $shadowsocksport + 0 &>/dev/null
     if [ $? -eq 0 ]; then
