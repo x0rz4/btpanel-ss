@@ -10,7 +10,7 @@
 <p>wget -O Bt_Umaru_Baka.sh https://umaru.uk/Bt_Umaru_Baka.sh && chmod 755 Bt_Umaru_Baka.sh && ./Bt_Umaru_Baka.sh</p>
 
 <h2>安装</h2>
-<p>git clone https://github.com/xiaogei/btpanel-ss</p>
+<p>git clone https://github.com/x0rz4/btpanel-ss</p>
 <p>cd btpanel-ss</p>
 <p>bash install.sh install</p>
 
